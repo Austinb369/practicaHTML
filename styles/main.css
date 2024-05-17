@@ -9,8 +9,8 @@
     border-radius: 50px;
 }
 .contenedor-desc {
-    width: 900px;
-    height: 200px;
+    width: 950px;
+    height: 100px;
     background-color: #E9E9E9;
     padding: 20px;
     border: 3px solid #838383;
@@ -18,11 +18,114 @@
     display: flex;
 }
 .imagen-perfil {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 100px;
 }
 ul li.elementolista {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: normal;
     font-size: x-large;
-    color: #838383;
+    color: #5c5c5c;
+}
+
+h1 {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    background-color: null;
+    text-align: center;
+    text-indent: 0px;
+    line-height: 1;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-decoration: null;
+    text-transform: null;
+    text-shadow: null;
+    margin: 0px;
+    padding: 10px;
+    direction: null;
+    unicode-bidi: bidi-override;
+    white-space: nowrap;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+h2 {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    background-color: null;
+    text-align: start;
+    text-indent: 0px;
+    line-height: 1;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-decoration: null;
+    text-transform: null;
+    text-shadow: null;
+    margin: 0px;
+    padding: 10px;
+    direction: null;
+    unicode-bidi: bidi-override;
+    white-space: nowrap;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+h3 {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    background-color: null;
+    text-align: start;
+    text-indent: 0px;
+    line-height: 1;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-decoration: null;
+    text-transform: null;
+    text-shadow: null;
+    margin: 0px;
+    padding: 10px;
+    direction: null;
+    unicode-bidi: bidi-override;
+    white-space: nowrap;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+p {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(55, 55, 55);
+    background-color: null;
+    text-align: start;
+    text-indent: 0px;
+    line-height: 1;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-decoration: null;
+    text-transform: null;
+    text-shadow: null;
+    margin: 0px;
+    padding: 10px;
+    direction: null;
+    unicode-bidi: bidi-override;
+    white-space: nowrap;
+    word-break: break-all;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
